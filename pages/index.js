@@ -20,13 +20,13 @@ const Home = () => {
               exit='hidden'
               className="h1"
             >
-              I’m Samprada Aryal <br /> A passionate{' '}
+              I&apos;m Samprada Aryal <br /> A passionate{' '}
               <span className="text-accent">Web Designer<br /> and UI/&UX Specialist</span>
             </motion.h1>
 
             {/* Subtitle */}
             <p className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16 text-gray-200 text-sm md:text-base leading-relaxed">
-              I’m Samprada Aryal, a passionate Web Designer and UI/UX Specialist dedicated to creating modern, user-friendly, and 
+              I&apos;m Samprada Aryal, a passionate Web Designer and UI/UX Specialist dedicated to creating modern, user-friendly, and 
               impactful digital experiences. I help transform concepts into functional designs—building websites and interfaces 
               that are not only visually engaging but also deliver seamless usability.
             </p>
